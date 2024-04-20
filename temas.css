@@ -45,7 +45,7 @@
 
     width: 100%;
     height: 2000px;
-    background-color: rgb(145, 12, 94);
+    background-color: rgb(253, 82, 14);
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 
@@ -57,7 +57,7 @@
     height: 6000px;
     background-color: rgb(51, 173, 26);
     font-family: 'Times New Roman', Times, serif; 
-
+    font-size: 20px;
 }
 
 .tecnologia{
