@@ -1,5 +1,72 @@
 .contenedor{
+
     width: 100%;
     height: 1200px;
-    background-color: aqua;
+    background-color: rgb(212, 125, 25);
+    display:flex ;
+    flex-direction:column ;
+    text-align: center;
+    
+}
+
+.encabezado{
+
+    width: 100%;
+    height: 500px;
+    background-color: rgb(9, 201, 73);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.matematicas{
+
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(0, 225, 255);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.quimica{
+
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(173, 236, 26);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.biologia{
+
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(145, 12, 94);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.ingles{
+
+    width: 100%;
+    height: 6000px;
+    background-color: rgb(51, 173, 26);
+    font-family: 'Times New Roman', Times, serif; 
+
+}
+
+.tecnologia{
+
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(192, 10, 10);
+    font-size: 20px;
+    color: rgb(43, 146, 146);
+    font-family: 'Times New Roman', Times, serif;
+
 }
